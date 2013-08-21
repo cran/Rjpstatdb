@@ -1,0 +1,10 @@
+933e7ce3e60d4988ad0e8300a834960f *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+4ca37ba6bd783f055880dee4070765d1 *R/Rjpstatdb.R
+b458f3bcde5569116f2b5e42bc14b9ec *README.md
+676c6033a51cda2549e95f8168ac2cfd *man/Rjpstatdb-package.Rd
+5909e6599fd5268412d86647bfd8b443 *man/getStatsData.Rd
+f737e72fec085e969af8745d2b2754ed *man/getStatsList.Rd
+c4965b1a5794e62b8838332d3840969f *man/jpstat-class.Rd
+342414407015ab4f58ad8b2f8f92f2b8 *man/print.jpstat.Rd
+af0ac4e3bafce97c18a8b8a09e4facda *man/show-methods.Rd
